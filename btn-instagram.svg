@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 44" width="130" height="44">
+  <style>
+    .bg { fill: #0F172A; stroke: rgba(255,255,255,0.07); }
+    .text { fill: #F8FAFC; font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; font-weight: 600; }
+    .icon { fill: #94A3B8; color: #94A3B8; }
+    @media (prefers-color-scheme: light) {
+      .bg { fill: #F8FAFC; stroke: rgba(15,23,42,0.06); filter: drop-shadow(0px 1px 3px rgba(15,23,42,0.06)); }
+      .text { fill: #0F172A; }
+      .icon { fill: #475569; color: #475569; }
+    }
+  </style>
+  <rect x="1" y="1" width="128" height="42" rx="12" class="bg" stroke-width="1"/>
+  <g class="icon" transform="translate(18, 14)">
+    <rect width="16" height="16" rx="4" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="3.5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12.5" cy="3.5" r="1" fill="currentColor"/>
+  </g>
+  <text x="44" y="27" class="text">Instagram</text>
+</svg>
