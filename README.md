@@ -9,6 +9,6 @@
 
   <a href="https://github.com/Vikalp-Sharma/"><img src="btn-github.svg" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/vikalp-sharma-170ba5356/"><img src="btn-linkedin.svg" alt="LinkedIn"></a>
-  <a href="https://instagram.com/_max_cyan_/"><img src="btn-instagram.svg" alt="Instagram"></a>
+  <a href="https://instagram.com/m4xcyan/"><img src="btn-instagram.svg" alt="Instagram"></a>
   <a href="https://github.com/Vikalp-SMXF/"><img src="btn-org.svg" alt="Organisation"></a>
 </div>
